@@ -9,7 +9,7 @@
 * Run `npm install` on the command line in the folder for the required dependencies. 
 * Then either run the app using `node app.js` or `npm install -g nodemon` and `nodemon app.js`. 
 * Connect to `localhost:3000` in your favorite browser. The port may be changed in the app.js file if required.
-* needs audio allow
+* The microphone input can be allowed for localhost, but for deployment purposes we need a secured HTTPS connection for allowing the input from the microphone to be passed on to client-side scripts.
 
 ## Understanding the visualisations
 
