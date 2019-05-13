@@ -1,8 +1,8 @@
-# Real_Time_Audio_Mfcc
+# Introduction
 
-*Real Time Audio Mel-frequency cepstral coefficients (MFCC) Analyser in the browser using Javascript [Web Audio API](https://github.com/WebAudio/web-audio-api), [Meyda Audio Feature Extractor](https://github.com/meyda/meyda) and [P5.js](https://p5js.org/) (for sketching)*
+We shall be visualizing Mel-frequency cepstral coefficients (MFCC) in the browser by receiving live audio input from the microphone using Javascript [Web Audio API](https://github.com/WebAudio/web-audio-api), [meyda.js](https://github.com/meyda/meyda) and [p5.js](https://p5js.org/) (for sketching)
 
-<img src="https://github.com/OrionMonk/Real_Time_Audio_Mfcc/blob/master/screenshot.png" width="100%">
+<img src="https://github.com/mizimo/Live-Audio-MFCC/raw/master/screenshot.png" width="100%">
 
 ## Setup The Server
 * Download and Install [Node.js](https://nodejs.org/en/) and Node Package Manager. 

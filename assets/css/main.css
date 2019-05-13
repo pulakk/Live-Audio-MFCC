@@ -1,0 +1,19 @@
+
+body{
+    background:#fff;
+    color:black;
+    font-size: 30px;
+    font-family:calibri;
+}
+button{
+    background:#aaf;
+    color:white;
+    padding:10px;
+    font-size:20px;
+    width:100px;
+    border:none;
+    outline:none;
+}
+button:active{
+    padding:9px;
+}
