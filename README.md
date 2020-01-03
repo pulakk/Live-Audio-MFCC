@@ -1,6 +1,6 @@
 # Introduction
 
-For proper explanation of the code, refer to [this tutorial webpage](https://mizimo.github.io/Live-Audio-MFCC/tutorial).
+For proper explanation of the code, refer to [this tutorial webpage](https://pulakk.github.io/Live-Audio-MFCC/tutorial).
 
 We shall be visualizing Mel-frequency cepstral coefficients (MFCC) in the browser by receiving live audio input from the microphone using Javascript [Web Audio API](https://github.com/WebAudio/web-audio-api), [meyda.js](https://github.com/meyda/meyda) and [p5.js](https://p5js.org/) (for sketching)
 
